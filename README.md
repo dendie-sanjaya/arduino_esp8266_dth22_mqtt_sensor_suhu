@@ -1,9 +1,11 @@
 # Integration Arduion esp8266_dth22 MQTT Temperature Sensor to Telkom IoT Platform
 
+## Introducing
+
 Creating sensor integration from esp8266_dth22 device to Telkom IoT Platform, this program  write code arduion programming language to send sensor device data
 through Wifi connection via MQTT protocol
 
-# Telkom IoT Platform
+## Telkom IoT Platform
 
 Telkom IoT Platform is an IoT platform created by Telkom Indonesia which can be accessed publicly and for free (with limited features), this platform allows all IoT devices to send sensor data to the cloud which can then be processed in another form
 
@@ -24,14 +26,14 @@ Sensor a temperature and humidity sensor known for its higher accuracy compared 
 This sensor can measure temperature in the range of -40 to +80 °C with an accuracy of around ±0.5°C, and humidity in the range of 0-100% RH with an accuracy of around ±2-5%.
 
 
-# Device Info
+## Device Info
 Can be purchased at :
 https://www.tokopedia.com/cncstorebandung/cnc-dht22-am2302-temperature-humidity-sensor-suhu-module-for-arduino
 
 ![device ](./screen_shoot_sample/device.png)
 
 
-# Simple Guide
+## Simple Guide
 
 **1. This image to show device connection to wifi and subcribe topic mqtt to Telkom IoT Platform**
 
