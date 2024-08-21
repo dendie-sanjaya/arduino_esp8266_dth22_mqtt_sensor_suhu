@@ -5,6 +5,19 @@
 Creating sensor integration from esp8266_dth22 device to Telkom IoT Platform, this program  write code arduion programming language to send sensor device data
 through Wifi connection via MQTT protocol
 
+
+## Table of Contents
+- [Introducing](#introducing)
+- [Telkom IoT Platform](#telkom-iot-platform)
+- [Device Info](#device-info)
+- [Simple Guide](#simple-guide)
+  - [Device Connection to WiFi and Subscribe to MQTT Topic](#1-device-connection-to-wifi-and-subscribe-to-mqtt-topic)
+  - [Device Sending Data to Telkom IoT Platform](#2-device-sending-data-to-telkom-iot-platform)
+  - [Telkom IoT Platform Receiving Data](#3-telkom-iot-platform-receiving-data)
+- [Contact](#contact)
+- [License](#license)
+
+
 ## Telkom IoT Platform
 
 Telkom IoT Platform is an IoT platform created by Telkom Indonesia which can be accessed publicly and for free (with limited features), this platform allows all IoT devices to send sensor data to the cloud which can then be processed in another form
