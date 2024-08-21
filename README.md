@@ -1,4 +1,4 @@
-# Integration Arduion esp8266_dth22 MQTT Temperature Sensor to Telkom IoT Platform
+# Integration Arduino esp8266_dth22 MQTT Temperature Sensor to Telkom IoT Platform
 
 ## Introducing
 
